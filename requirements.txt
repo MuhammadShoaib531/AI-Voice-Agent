@@ -1,0 +1,6 @@
+pfastapi 
+uvicorn 
+python-dotenv 
+twilio 
+elevenlabs 
+websockets
