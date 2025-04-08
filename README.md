@@ -17,7 +17,7 @@ Install all Python dependencies using pip:
 
 ```bash
 pip install fastapi uvicorn python-dotenv twilio elevenlabs websockets
-
+```
 You will also need:
 
 Ngrok: To expose your local server to the public internet for Twilio to reach it.
